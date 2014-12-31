@@ -1,0 +1,36 @@
+hi
+hey
+hello jarvis
+hello 
+goodbye
+goodbye jarvis
+jarvis
+what time is it
+what day is it
+whats the date
+whats today date
+run unity
+run calculator
+run firefox
+run skype
+run IE
+run command
+close IE
+close unity
+close calculator
+close firefox
+show commands
+hide listbox
+open google
+open stackoverflow
+open MSDN
+go fullscreen
+exit fullscreen
+switch window
+reset
+out of the way
+come back
+shutdown
+log off
+restart
+lock PC

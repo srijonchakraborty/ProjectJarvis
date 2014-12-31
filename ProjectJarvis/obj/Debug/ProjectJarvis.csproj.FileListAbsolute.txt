@@ -1,0 +1,36 @@
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvis\ProjectJarvis\bin\Debug\ProjectJarvis.exe.config
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvis\ProjectJarvis\bin\Debug\ProjectJarvis.exe
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvis\ProjectJarvis\bin\Debug\ProjectJarvis.pdb
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.Form1.resources
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.Properties.Resources.resources
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.exe
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.pdb
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.csprojResolveAssemblyReference.cache
+D:\My Zone\Projects\Jarvis with Imran\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\bin\Debug\ProjectJarvis.exe.config
+D:\My Zone\Projects\Jarvis with Imran\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.exe
+D:\My Zone\Projects\Jarvis with Imran\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.pdb
+D:\My Zone\Projects\Jarvis with Imran\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\bin\Debug\ProjectJarvis.exe
+D:\My Zone\Projects\Jarvis with Imran\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\bin\Debug\ProjectJarvis.pdb
+D:\My Zone\Projects\Jarvis with Imran\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.csprojResolveAssemblyReference.cache
+D:\My Zone\Projects\Jarvis with Imran\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.Form1.resources
+D:\My Zone\Projects\Jarvis with Imran\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.Properties.Resources.resources
+D:\My Zone\Projects\Jarvis with Imran\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.csproj.GenerateResource.Cache
+C:\Users\imran\Downloads\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\bin\Debug\ProjectJarvis.exe.config
+C:\Users\imran\Downloads\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\bin\Debug\ProjectJarvis.exe
+C:\Users\imran\Downloads\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\bin\Debug\ProjectJarvis.pdb
+C:\Users\imran\Downloads\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.Form1.resources
+C:\Users\imran\Downloads\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.Properties.Resources.resources
+C:\Users\imran\Downloads\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.csproj.GenerateResource.Cache
+C:\Users\imran\Downloads\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.exe
+C:\Users\imran\Downloads\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.pdb
+C:\Users\imran\Downloads\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\bin\Debug\ProjectJarvis.exe.config
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.exe
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.pdb
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\bin\Debug\ProjectJarvis.exe
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\bin\Debug\ProjectJarvis.pdb
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.Form1.resources
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.Properties.Resources.resources
+D:\Visual Studio Projects\Aust Project Show\Testing\ProjectJarvisFinal\ProjectJarvisFinal\ProjectJarvis\ProjectJarvis\obj\Debug\ProjectJarvis.csproj.GenerateResource.Cache
