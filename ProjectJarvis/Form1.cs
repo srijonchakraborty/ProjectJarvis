@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,10 +20,10 @@ namespace ProjectJarvis
     {
         SpeechRecognitionEngine _recognizer = new SpeechRecognitionEngine();
         SpeechSynthesizer JARVIS = new SpeechSynthesizer();
-        public NotifyIcon mynotify = new NotifyIcon();      
+        public NotifyIcon mynotify = new NotifyIcon();
         int count = 1;
         int temp = 0;
-        
+
         //Random rnd = new Random();
 
         //[DllImport("user32")]
@@ -33,10 +33,10 @@ namespace ProjectJarvis
         public static extern void LockWorkStation();
         public Form1()
         {
-            
+
             InitializeComponent();
-         
-            string[] commands = (File.ReadAllLines(@"C:\Users\imran\Desktop\New folder\command.txt"));
+
+            string[] commands = (File.ReadAllLines(@"C:\command.txt"));
             lstCommands.Items.Clear();
             lstCommands.SelectionMode = SelectionMode.None;
             lstCommands.Visible = false;
@@ -45,19 +45,19 @@ namespace ProjectJarvis
                 lstCommands.Items.Add(command);
             }
 
-            
+
 
             string comport = "COM10";
             serialPort1.PortName = comport;
             serialPort1.BaudRate = 9600;
             //if (!serialPort1.IsOpen)
-                //serialPort1.Open();
+            //serialPort1.Open();
             try
             {
                 if (!serialPort1.IsOpen)
                     serialPort1.Open();
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }
@@ -65,12 +65,12 @@ namespace ProjectJarvis
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+
             //for using system's default microphone . select audio input from devices ,files, or stream//
             _recognizer.SetInputToDefaultAudioDevice();
-            
+
             //Input Command file
-            _recognizer.LoadGrammar(new Grammar(new GrammarBuilder(new Choices(File.ReadAllLines(@"C:\Users\imran\Desktop\New folder\command.txt")))));
+            _recognizer.LoadGrammar(new Grammar(new GrammarBuilder(new Choices(File.ReadAllLines(@"C:\command.txt")))));
             _recognizer.LoadGrammar(new DictationGrammar());
             _recognizer.SpeechRecognized += new EventHandler<SpeechRecognizedEventArgs>(_recognizer_SpeechRecognized);
             //this specifies recognition does not terminate after completion
@@ -135,7 +135,7 @@ namespace ProjectJarvis
                 case "open daily star":
                     Process.Start("http://www.thedailystar.net/");
                     break;
-                
+
                 //Search Google by speaking "find"
                 case "find":
                     {
@@ -143,7 +143,7 @@ namespace ProjectJarvis
                         temp = 1;
                     }
                     break;
-                
+
                 //SHELL COMMANDS
                 case "run unity":
                     Process.Start(@"C:\Program Files (x86)\Unity\Editor\Unity.exe");
@@ -302,13 +302,14 @@ namespace ProjectJarvis
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            JARVIS.Speak("goodbye");
+            JARVIS.Speak("goodbye sir");
+
             this.Close();
         }
 
         private void Form1_SizeChanged(object sender, EventArgs e)
         {
-            
+
             if (this.WindowState == FormWindowState.Minimized)
             {
                 mynotify.Visible = true;
@@ -331,5 +332,17 @@ namespace ProjectJarvis
             this.ShowInTaskbar = true;
             mynotify.Visible = false;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
+
+
